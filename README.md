@@ -36,6 +36,6 @@ on quit
 end quit
 ```
 
-Also open system preference, and set this app to startupitems with user and group settings.
+Also open system preference, and set this app to Login Items with user and group settings.
 
 ![screenshot3](screen/screenshot3.png)
