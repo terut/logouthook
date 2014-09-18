@@ -6,7 +6,7 @@ LoginHook, LogoutHook and StartupItems of Mac OSX is deprecated and it is prefer
 
 ## Screen
 
-![screenshot](screen/screenshot.png)
+![screenshot1](screen/screenshot1.png)
 
 ## Installation
 
@@ -18,8 +18,9 @@ $ cd ~
 $ git clone github.com:terut/logouthook.git
 ```
 
-Then open system preference, and set this app to startupitems with user and group settings.
-Also open applescript editor, and edit LogoutHook.app. you can change to your favorite script.
+Then open applescript editor, and edit LogoutHook.app. you can change to your favorite script.
+
+![screenshot2](screen/screenshot2.png)
 
 ```applescript
 on quit
@@ -34,3 +35,7 @@ on quit
   end if
 end quit
 ```
+
+Also open system preference, and set this app to startupitems with user and group settings.
+
+![screenshot3](screen/screenshot3.png)
